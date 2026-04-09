@@ -1,0 +1,30 @@
+# [Type]: Brief description (max 50 chars)
+# |<----  Using a 50 character maximum  ---->|
+
+# Types:
+# - Research: 시장/사용자/경쟁사 조사
+# - Hypothesis: 가설 수립/수정/검증
+# - Interview: 인터뷰 준비/진행/분석
+# - Analysis: 데이터 분석/인사이트 도출
+# - Planning: 로드맵/스펙/전략 수립
+# - Review: 검토/피드백/개선사항
+# - Refactor: 문서 구조 개선/정리
+# - Fix: 오류 수정/문제 해결
+
+# Body (Optional): Explain *why* this change is necessary
+# |<----   Wrap at 72 characters   ---->|
+
+# Critical Analysis Checklist:
+# - [ ] 반증 시나리오 포함됨
+# - [ ] 증거 레벨 명시됨 
+# - [ ] 숨겨진 가정 검토됨
+# - [ ] 실패 조건 고려됨
+# - [ ] 신뢰도 % 표시됨
+
+# Example:
+# Hypothesis: MVP 핵심 기능 3개로 축소
+#
+# 인터뷰 피드백 기반으로 기능 우선순위 재조정.
+# - 사용자 10명 중 7명이 불필요하다고 응답한 기능 제외
+# - 신뢰도: 60% (표본 크기 제한)
+# - 실패 시나리오: 제외 기능이 실제로는 retention에 중요
